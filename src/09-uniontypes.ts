@@ -1,4 +1,5 @@
 (() => {
+  // TODO: usar solo dos
   let myDynamicVar: string | number;
   myDynamicVar = 'My String';
   myDynamicVar = 100;
