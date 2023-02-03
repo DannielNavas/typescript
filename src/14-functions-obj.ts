@@ -3,6 +3,7 @@
 
   const login = (data: { email: string; password: string }): string => {
     console.log(data.email, data.password);
+    return 'Hello';
   };
 
   // login('danniel.gmail.com', '123456');
